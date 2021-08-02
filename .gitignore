@@ -1,0 +1,8 @@
+# Generic directories/files
+data
+Untitled.ipynb
+
+# Temporary directories/files
+.ipynb_checkpoints
+__pycache__
+test*
